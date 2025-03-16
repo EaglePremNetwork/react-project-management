@@ -22,3 +22,9 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Snapshots
+project-management-1.jpg
+project-management-2.jpg
+project-management-3.jpg
+project-management-4.jpg
